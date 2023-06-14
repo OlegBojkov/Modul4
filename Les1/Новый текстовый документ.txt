@@ -1,0 +1,21 @@
+git config --global user.name "Имя"
+git config --global user.email "Почта"
+git config --list
+cd C:/Users/Oleg/Desktop/KOD/M4
+git status
+git init
+git status
+git add .
+git commit -m 'initial'
+git status
+git show
+q
+git remote add origin https://github.com/OlegBojkov/test.git
+git branch -M main
+git push -u origin main
+
+git add .
+git commit –m 'ДЗ № 1. Реализация палиндрома'
+git push origin main
+
+https://github.com/OlegBojkov/test.git
